@@ -1,2 +1,2 @@
 # Battleships
-A battleships game played in the command shell. Developed in Python.
+A simple battleships game played in the command shell. Developed in Python.
